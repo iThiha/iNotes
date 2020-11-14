@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "136628905467",
+    "firebase_url": "https://inotes-59679.firebaseio.com",
+    "project_id": "inotes-59679",
+    "storage_bucket": "inotes-59679.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136628905467:android:5141ffe010fc7349fc975e",
+        "android_client_info": {
+          "package_name": "mm.com.beon.inotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136628905467-ogmt9vuce28qm63q8e3cv7q0teutcs4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAMjVkL-0yZbislQfdi5_NW0eonCIUpk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136628905467-ogmt9vuce28qm63q8e3cv7q0teutcs4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
